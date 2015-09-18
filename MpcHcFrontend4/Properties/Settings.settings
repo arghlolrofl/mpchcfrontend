@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MpcHcFrontend4.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FFPROBE_FOLDER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">e:\tools\ffmpeg\bin\</Value>
+    </Setting>
+    <Setting Name="DATABASE_FOLDER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\Users\neo\Desktop\</Value>
+    </Setting>
+    <Setting Name="DATABASE_NAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mediadb</Value>
+    </Setting>
+    <Setting Name="ENABLE_LOGGING" Type="System.String" Scope="User">
+      <Value Profile="(Default)">true</Value>
+    </Setting>
+    <Setting Name="LOG_FILE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MpcHcFrontend4.log</Value>
+    </Setting>
+    <Setting Name="MPC_HC_FOLDER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">e:\tools\mpc-hc-1.7.1-x86\</Value>
+    </Setting>
+    <Setting Name="ALLOWED_FILE_EXTENSIONS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">avi;divx;flv;mkv;mp4;mpg</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
